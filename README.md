@@ -96,12 +96,6 @@ logica.py → Controla el flujo del juego, puntaje y validación de respuestas.
 
 main.py → Punto de entrada que une todo y ejecuta el juego.
 
-📌 Notas
-Los archivos de sonido (correcto.wav y error.wav) deben estar en la carpeta del proyecto.
-
-Si no existen, el juego seguirá funcionando y mostrará avisos en consola.
-
-Puedes organizar los sonidos en una carpeta sonidos/ y ajustar las rutas en efectos.py.
-
 👨‍💻 Autor
 Proyecto desarrollado por Fabrizio como práctica de Python, Tkinter y pygame.
+
