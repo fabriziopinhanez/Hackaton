@@ -97,5 +97,5 @@ logica.py → Controla el flujo del juego, puntaje y validación de respuestas.
 main.py → Punto de entrada que une todo y ejecuta el juego.
 
 👨‍💻 Autor
-Proyecto desarrollado por Fabrizio como práctica de Python, Tkinter y pygame.
+Proyecto desarrollado por el grupo After Ofiice como práctica de Python, Tkinter y pygame.
 
