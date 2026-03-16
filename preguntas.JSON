@@ -1,0 +1,19 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "opciones": ["París", "Roma", "Madrid"],
+    "respuesta": "París"
+  },
+  {
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "opciones": ["Picasso", "Leonardo da Vinci", "Van Gogh"],
+    "respuesta": "Leonardo da Vinci"
+  },
+  {
+    "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+    "opciones": ["Júpiter", "Saturno", "Marte"],
+    "respuesta": "Júpiter"
+  }
+]
+
+
